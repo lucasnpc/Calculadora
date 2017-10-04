@@ -10,6 +10,7 @@ import android.widget.TextView;
 
 import java.util.regex.Pattern;
 
+//Teste
 public class MainActivity extends AppCompatActivity {
     private TextView _screen;
     private String display = "";
